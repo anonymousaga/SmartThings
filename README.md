@@ -1,2 +1,2 @@
 # SmartThings
-My custom SmartThings drivers, written in groovy.
+Virtual Temperate and Humidity driver, written in groovy.
